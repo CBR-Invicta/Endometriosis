@@ -1,0 +1,8 @@
+.env
+data
+.vscode
+*.pyc
+poetry.lock
+lib/__pycache__
+out
+notebooks/experiments_modeling/logs

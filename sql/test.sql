@@ -1,0 +1,1 @@
+SELECT id, name, tag, ids FROM report_qualifications_values
